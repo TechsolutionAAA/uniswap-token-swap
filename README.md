@@ -47,12 +47,6 @@ create .env file in root directory.
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/karangorania/uniswap-smart-contract
-```
-
 Go to the project directory
 
 ```bash
